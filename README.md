@@ -6,3 +6,5 @@ The name "PAX" is of arbitrary origin, however the 16 at the end, represents how
 This computer is currently in the initial processor design stages, and, when ready, will be  implemented with an FPGA. This repo will not feature the file used to create the computer, (to prevent plagirism), but will feature example Romanesco files that were made to run exclusively on the PAX16 CPU.
 # Romanesco
 Romanesco is the project name of the PAX machine language. It is supposed to run using "fractured" programs, a new program form devised by me. As this repo will only feature Romanesco files, the official documentation will be featured in a seperate repo. Romanesco files have the extension, ".rmn", and will be featured in the Romanesco folder in this repo.
+# Operating System
+PAX16 uses the HopliteOS. An esoteric operating system, that was made to be lightweight, and fast. It is exclusively used on the PAX16 CPU.
